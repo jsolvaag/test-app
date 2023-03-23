@@ -11,8 +11,8 @@ export default function Home() {
 
       
         <h1 className={styles.title}>
-          Welcome to <a href="https://www.google.com/search?q=you+have+been+micald&rlz=1C5GCEM_en&oq=you+have+been+micald&aqs=chrome..69i57j33i22i29i30l9.7811j0j1&sourceid=chrome&ie=UTF-8">mical jakson!</a> 
-        </h1> target=
+          Welcome to <a href="/examples">michael jackson!</a> 
+        </h1> 
 
         
         
@@ -24,31 +24,31 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://en.wikipedia.org/wiki/Death_of_Michael_Jackson" target="_blank" className={styles.card}>
-            <h3>micaljakson death
+            <h3>michael jackson death
                &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p></p>
           </a>
 
           <a href="https://www.thesouljam.com/post/michael-jackson-lessons" target="_blank" className={styles.card}>
-            <h3>Learn about micaljakson&rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h3>Learn about michael jackson&rarr;</h3>
+            <p></p>
           </a>
 
           <a
             href= "https://www.dbltap.com/posts/michael-jackson-fortnite-the-king-of-pop-imagined-in-game-01evf9fm1ejr" target="_blank"
             className={styles.card}
           >
-            <h3>Examples of micaljakson skins in the new call of duti &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h3>Examples of michael jackson skins in the new call of duti &rarr;</h3>
+            <p></p>
           </a>
 
           <a
             href="https://www.google.com/search?q=call+of+duty+michael+jackson+deploy&source=lmns&bih=946&biw=1680&rlz=1C5GCEM_en&hl=en&sa=X&ved=2ahUKEwiw5d2Fw-_9AhUJzyoKHb38AYsQ_AUoAHoECAEQ" target="_blank"
             className={styles.card}
           >
-            <h3>Deploy micaljakson in the new call of duti 2 &rarr;</h3>
+            <h3>Deploy michael jackson in the new call of duti 2 &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+          
             </p>
           </a>
         </div>
@@ -67,3 +67,11 @@ export default function Home() {
       </div>
   )
 }
+
+
+
+
+
+<a href='/' style={{color: "white", fontSize: "large", position: "absolute", right: '20px', top: '20px'}}>
+      &larr; Tilbake
+      </a>

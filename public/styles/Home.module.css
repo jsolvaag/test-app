@@ -63,7 +63,7 @@ width: 20px ;
 }
 
 .card {
-  background-color: rgb(167, 167, 167);
+  background-color: rgb(178, 178, 178);
   margin: 1rem;
   flex-basis: 45%;
   padding: 1.5rem;
@@ -75,12 +75,14 @@ width: 20px ;
   transition: color 0.15s ease, border-color 0.15s ease;
 }
 
+
 .card:hover,
 .card:focus,
 .card:active {
   color: #fcfcfc;
   border-color: #f36500;
 }
+
 
 .card h3 {
   margin: 0 0 1rem 0;

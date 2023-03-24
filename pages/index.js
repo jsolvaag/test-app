@@ -16,7 +16,10 @@ export default function Home() {
 
         
         
-
+        <a href='/credit' style={{color: "white", fontSize: "large", position: "absolute", right: '20px', top: '20px'}}>
+      &larr; 
+      
+      </a>
 
                     
                    
@@ -72,6 +75,3 @@ export default function Home() {
 
 
 
-<a href='/' style={{color: "white", fontSize: "large", position: "absolute", right: '20px', top: '20px'}}>
-      &larr; Tilbake
-      </a>
